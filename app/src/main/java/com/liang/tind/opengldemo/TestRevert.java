@@ -7,4 +7,7 @@ package com.liang.tind.opengldemo;
  */
 
 public class TestRevert {
+
+    static final String STRING = "";
+
 }
